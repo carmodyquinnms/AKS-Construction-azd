@@ -87,4 +87,4 @@ output aksOidcIssuerUrl string = aksconst.outputs.aksOidcIssuerUrl
 output aksClusterName string = aksconst.outputs.aksClusterName
 output containerRegistryName string = aksconst.outputs.containerRegistryName
 
-//output AZURE_AKS_CLUSTER_NAME string = aksconst.outputs.aksClusterName
+
